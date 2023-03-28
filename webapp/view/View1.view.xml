@@ -2,8 +2,12 @@
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
+<<<<<<< HEAD
         <content>
         <Button/>
         </content>
+=======
+        <content></content>
+>>>>>>> 3f35caff7017224ea50748d4515b075a75504995
     </Page>
 </mvc:View>
